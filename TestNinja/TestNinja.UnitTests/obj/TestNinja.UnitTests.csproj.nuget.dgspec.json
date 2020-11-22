@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+        "projectName": "TestNinja.UnitTests",
+        "projectPath": "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\sarit\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sarit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj": {
+                "projectPath": "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj",
+        "projectName": "TestNinja",
+        "projectPath": "D:\\source\\repo\\GitHub\\NUnit\\source-code-starter\\source-code-starter\\TestNinja\\TestNinja\\TestNinja.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}
